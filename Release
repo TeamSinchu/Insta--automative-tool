@@ -1,0 +1,5 @@
+Archive: kali-rolling
+Component: contrib
+Origin: Kali
+Architecture: amd64
+Description: Kali's official continuously updated distribution
